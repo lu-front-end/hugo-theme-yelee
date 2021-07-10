@@ -9,8 +9,7 @@
     "tagcloud": true,
     "aboutme": "我就是我，是不一样的烟火",
     "friends": {
-      "友链1": "http://www.baidu.com",
-      "友链2": "http://www.baidu.com"
+      "github": "https://github.com/dbkernel"
     },
     "subnav": {
       "Email": "mailto:nightfarmer@163.com",
